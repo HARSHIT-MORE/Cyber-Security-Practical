@@ -1,0 +1,19 @@
+Watering hole attack --- distribute malware where user visit frequently
+
+A zero-day attack --- exploits a software vulnerability that is unknown to the vendor and has no patch
+
+proxy filtering --- is a security and management technique where an intermediary server (the proxy) sits between a user's device and the internet
+
+DNS Sinkhole --- Redirect malicious domains to fake IPs
+
+Spoofing - Fake DNS response
+
+In a Zero Trust architecture ---- no user or device is trusted by default, whether they are sitting in the office headquarters or connecting remotely from a coffee shop. Every single request to access a resource must be authenticated, authorized, and encrypted.
+
+Teredo tunneling can cause DNS leaks primarily because it creates a "split" in how your computer thinks about its network path. When Teredo is active, your system effectively has two different ways to reach the internet: the standard IPv4 path and the virtual Teredo IPv6 tunnel.
+
+OWASP - Open worldwide Application Security Project - non profit for web security
+
+Data exfiltration typically involves a cyber criminal stealing data from personal or corporate devices, such as computers and mobile phones, through various cyberattack methods.
+
+Spyware is any malware that aims to gather information about a person or organization and send it to another entity in a way that harms the user by violating their privacy, endangering their device's security, or other means
